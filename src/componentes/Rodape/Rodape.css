@@ -1,0 +1,21 @@
+.footer {
+  background-color: #6278F7;
+  display: flex;
+  justify-content: space-around;
+  padding: 48px 0px;
+}
+
+.footer .sociais {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+}
+
+.social-logo {
+  margin: 0px 30px
+}
+
+.footer p {
+  color: #FFF;
+  font-size: 20px;
+}
